@@ -16,17 +16,22 @@
 
 ## Table of Contents
 
+* [Star History](#star-history)
 * [About](#about)
 * [Disclaimer](#disclaimer)
 * [Features](#features)
 * [Installation](#installation)
 * [Usage](#usage)
-* [How It Works)](#How-It-Works)
+* [How It Works)](#how-it-works)
 * [Configuration](#configuration)
 * [Contributing](#contributing)
 * [License](#license)
 
 ---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Nuhphyron/Scr4py-Proxy-Scraper&type=date&legend=top-left)](https://www.star-history.com/#Nuhphyron/Scr4py-Proxy-Scraper&type=date&legend=top-left)
 
 ## About
 
