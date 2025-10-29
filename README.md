@@ -1,4 +1,4 @@
-# Scr4py — Proxy Fetcher & CLI
+# Scr4py v1.0 — Proxy Fetcher & CLI
 
 ```
   ███████╗ ██████╗██████╗ ██╗  ██╗██████╗ ██╗   ██╗
